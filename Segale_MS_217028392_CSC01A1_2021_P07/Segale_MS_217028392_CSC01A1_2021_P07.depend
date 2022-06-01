@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1620314101 source:c:\users\motlalerona segale\source\repos\c++start\c++start\my project\segale_ms_217028392_csc01a1_2021_p07\libpark.cpp
+	"libPark.h"
+	<iostream>
+	<cassert>
+	<cmath>
+
+1620321162 c:\users\motlalerona segale\source\repos\c++start\c++start\my project\segale_ms_217028392_csc01a1_2021_p07\libpark.h
+	<iostream>
+	<cstdlib>
+	<cassert>
+	<sstream>
+
+1620321255 source:c:\users\motlalerona segale\source\repos\c++start\c++start\my project\segale_ms_217028392_csc01a1_2021_p07\main.cpp
+	"libPark.h"
+	<iostream>
+	<cstdlib>
+
